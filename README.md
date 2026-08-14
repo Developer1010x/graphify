@@ -1,5 +1,22 @@
 # graphify
 
+> ### ⚠️ This is a fork — I did not write this software
+>
+> **graphify is created and maintained by [Safi Shamsi](https://github.com/safishamsi).**
+> The upstream project lives at **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)**
+> and has ~198 contributors. All credit for the design and implementation belongs to them.
+>
+> This fork exists only to develop one contribution back upstream: incremental graph diffing
+> (`graphify diff` + `patch_graph`) and community auto-naming, on the
+> [`improve/incremental-diff-community-names`](https://github.com/Developer1010x/graphify/tree/improve/incremental-diff-community-names)
+> branch. **I have zero commits on this `v4` branch.**
+>
+> If you want to use graphify, install it from upstream — not from here.
+> This fork is ~1,282 commits behind (`v0.4.23` vs upstream `v0.9.36`) and is not kept current.
+>
+> The badges below belong to the upstream project and are left intact so credit
+> and sponsorship route to the actual author.
+
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [한국어](README.ko-KR.md)
 
 [![CI](https://github.com/safishamsi/graphify/actions/workflows/ci.yml/badge.svg?branch=v4)](https://github.com/safishamsi/graphify/actions/workflows/ci.yml)
